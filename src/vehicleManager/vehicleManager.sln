@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vehicleManager", "vehicleManager\vehicleManager.csproj", "{FE4C7711-C17F-433D-A03C-96DF820441DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleLibrary", "VehicleLibrary\VehicleLibrary.csproj", "{89812EF9-CCB5-4274-8875-7B1A98B7CA73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE4C7711-C17F-433D-A03C-96DF820441DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4C7711-C17F-433D-A03C-96DF820441DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4C7711-C17F-433D-A03C-96DF820441DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4C7711-C17F-433D-A03C-96DF820441DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89812EF9-CCB5-4274-8875-7B1A98B7CA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89812EF9-CCB5-4274-8875-7B1A98B7CA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89812EF9-CCB5-4274-8875-7B1A98B7CA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89812EF9-CCB5-4274-8875-7B1A98B7CA73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87714DBE-5D58-462A-985B-02A39B418411}
+	EndGlobalSection
+EndGlobal
