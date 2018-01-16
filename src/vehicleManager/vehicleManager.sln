@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vehicleManager", "vehicleManager\vehicleManager.csproj", "{FE4C7711-C17F-433D-A03C-96DF820441DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "vehicleManager", "vehicleManager\vehicleManager.csproj", "{FE4C7711-C17F-433D-A03C-96DF820441DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleLibrary", "VehicleLibrary\VehicleLibrary.csproj", "{89812EF9-CCB5-4274-8875-7B1A98B7CA73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleLibrary", "VehicleLibrary\VehicleLibrary.csproj", "{89812EF9-CCB5-4274-8875-7B1A98B7CA73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleManagerWPF", "VehicleManagerWPF\VehicleManagerWPF.csproj", "{71FA917C-6C0F-4591-9A96-245E978DD38C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{89812EF9-CCB5-4274-8875-7B1A98B7CA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89812EF9-CCB5-4274-8875-7B1A98B7CA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89812EF9-CCB5-4274-8875-7B1A98B7CA73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71FA917C-6C0F-4591-9A96-245E978DD38C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FA917C-6C0F-4591-9A96-245E978DD38C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FA917C-6C0F-4591-9A96-245E978DD38C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FA917C-6C0F-4591-9A96-245E978DD38C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
